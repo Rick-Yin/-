@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b03b0aed57b3c6b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C语言复习必做题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d961cf7e995a1559",
@@ -165,11 +178,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "120ac5db8a2631ab",
+  "active": "04aba40323204e4c",
   "lastOpenFiles": [
+    "C语言复习必做题.md",
+    "一生一芯学习记录 第六期.md",
+    "读后感.md",
     "resource/Test_100.png",
     "resource",
-    "一生一芯学习记录 第六期.md",
     "Welcome.md"
   ]
 }
